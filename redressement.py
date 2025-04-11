@@ -3,7 +3,7 @@ import numpy as np
 import glob
 import os
 
-
+# modification done
 images = glob.glob(r"C:\Users\Hassiba Info\OneDrive\Bureau\Fisheye\*.jpg") 
 
 # Charger les paramètres de calibration
